@@ -1,5 +1,5 @@
 ### Hi there 👋
-![snake animation](https://github.com/ofurkancoban/ofurkancoban/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/ofurkancoban/ofurkancoban/output/github-contribution-grid-snake-dark.svg)
 <!--
 **ofurkancoban/ofurkancoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
